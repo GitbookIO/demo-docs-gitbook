@@ -78,42 +78,20 @@ tags:
 Tag description fields support GitBook markdown, including [advanced blocks](../../creating-content/blocks/) like tabs:
 
 {% code title="openapi.yaml" %}
-```yaml
----
-tags:
-  - name: pet
-    description: |
-      Here is the detail of pets.
-
-      {% tabs %}
-      {% tab title="Dog" %}
-      Here are the dogs
-      {% endtab %}
-
-      {% tab title="Cat" %}
-      Here are the cats
-      {% endtab %}
-
-      {% tab title="Rabbit" %}
-      Here are the rabbits
-      {% endtab %}
-      {% endtabs %}
 ```
-{% endcode %}
+  {% tabs %}
+  {% tab title="Dog" %}
+  Here are the dogs
+  {% endtab %}
 
-### Highlight schemas
+  {% tab title="Cat" %}
+  Here are the cats
+  {% endtab %}
 
-You can highlight a schema in a GitBook description by using GitBook markdown. Here is an example that highlights the “Pet” schema from the “petstore” specification:
-
-{% code title="openapi.yaml" %}
-```yaml
----
-tags:
-  - name: pet
-      description: |
-          {% openapi-schemas spec="petstore" schemas="Pet" grouped="false" %}
-              The Pet object
-          {% endopenapi-schemas %}
+  {% tab title="Rabbit" %}
+  Here are the rabbits
+  {% endtab %}
+  {% endtabs %}
 ```
 {% endcode %}
 

@@ -159,11 +159,6 @@
 * [SSO & SAML](account-management/sso-and-saml/README.md)
   * [SSO Members vs non-SSO](account-management/sso-and-saml/sso-members-vs-non-sso.md)
 
-## Snippets
-
-* [Overview](snippets/overview.md)
-* [Snippets (beta)](snippets/snippets-beta.md)
-
 ## Resources
 
 * [GitBook UI](resources/gitbook-ui/README.md)

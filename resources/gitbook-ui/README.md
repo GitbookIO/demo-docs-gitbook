@@ -49,7 +49,11 @@ From the **Pages** tab in the table of contents you can:
 * Create new [pages](./#pages) and subpages
 * Create [page groups](./#groups)
 * Add [external links](./#external-links)
-* Access [the Actions menu](./#the-actions-menu) <picture><source srcset="../../.gitbook/assets/actions_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/actions_icon_light.svg" alt=""></picture> for individual pages.
+*   Access [the Actions menu](./#the-actions-menu)&#x20;
+
+    <picture><source srcset="../../.gitbook/assets/actions_icon_dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/actions_icon_light.svg" alt=""></picture>
+
+    &#x20;for individual pages.
 
 In the **Reusable content** tab, you can:
 
@@ -86,8 +90,12 @@ The space header includes:
   The name of the space that will appear in the sidebar, and your documentation if and when you choose to publish it.
 * **The space’s breadcrumbs**\
   A full, linear list of the collections or docs sites the space lives in.
-* **Actions menu** <picture><source srcset="../../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture>\
-  Offers a list of actions for your space. Similar to [page actions](./#the-actions-menu), the available actions for a space will differ depending on the mode you’re currently in.
+*   **Actions menu**&#x20;
+
+    <picture><source srcset="../../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture>
+
+    \
+    Offers a list of actions for your space. Similar to [page actions](./#the-actions-menu), the available actions for a space will differ depending on the mode you’re currently in.
 * **Editor view**\
   This view is where you can make edits to your content using GitBook’s block-based editor.
 * **Changes view**\
@@ -121,7 +129,11 @@ The site header includes:
   The name of the space that will appear in the sidebar, and your documentation if and when you choose to publish it.
 * **The site’s breadcrumbs**\
   A link back to the main Docs sites screen.
-* **Actions menu** <picture><source srcset="../../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture> Offers a list of actions for your site. You can visit your site or copy its URL quickly from this menu
+*   **Actions menu**&#x20;
+
+    <picture><source srcset="../../.gitbook/assets/actions-horizontal - dark.svg" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/actions-horizontal.svg" alt="The Actions menu icon in GitBook"></picture>
+
+    &#x20;Offers a list of actions for your site. You can visit your site or copy its URL quickly from this menu
 * **Overview**\
   The site overview shows you essential information about your site including it’s URL, publish status, audience and content, as well as top-level insights.
 * **Insights**\

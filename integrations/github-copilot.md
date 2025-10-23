@@ -1,15 +1,15 @@
 ---
-icon: github
 description: >-
   Leverage your GitBook documentation to answer user queries and provide instant
   responses within your workflow
+icon: github
 ---
 
 # GitHub Copilot
 
 ### Overview
 
-GitBook Copilot is a powerful tool that helps your team access the knowledge within your organization's documentation effortlessly. By integrating directly with GitHub, it provides relevant answers to queries right in your coding environment.&#x20;
+GitBook Copilot is a powerful tool that helps your team access the knowledge within your organization's documentation effortlessly. By integrating directly with GitHub, it provides relevant answers to queries right in your coding environment.
 
 Whether you're setting up a new project, troubleshooting code, or exploring your documentation, GitBook Copilot makes it easy to get the information you need in real-time.
 
@@ -17,25 +17,25 @@ Whether you're setting up a new project, troubleshooting code, or exploring your
 
 {% stepper %}
 {% step %}
-### Install the app
+#### Install the app
 
 Install the [GitBook for GitHub Copilot](https://github.com/marketplace/gitbook-for-github-copilot) app in your GitHub organization.
 {% endstep %}
 
 {% step %}
-### Set up the GitBook integration
+#### Set up the GitBook integration
 
 In your GitBook organization, install the [GitHub Copilot integration](https://app.gitbook.com/integrations/github-copilot).
 {% endstep %}
 
 {% step %}
-### Authenticate your GitHub account
+#### Authenticate your GitHub account
 
 Log in to your GitHub account and select the organization(s) for which you want the integration to function.
 {% endstep %}
 
 {% step %}
-### Connect your documentation
+#### Connect your documentation
 
 In GitBook’s integration settings, choose which spaces or documentation GitBook Copilot will use to provide answers.
 {% endstep %}
