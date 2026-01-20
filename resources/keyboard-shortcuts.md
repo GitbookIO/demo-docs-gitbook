@@ -7,6 +7,8 @@ icon: keyboard
 
 Shortcut keys allow easy and quick methods for navigating or editing content.
 
+Hello world
+
 ## In published documentation
 
 <table><thead><tr><th width="270.3294270833333">Description</th><th>Mac</th><th>Windows</th></tr></thead><tbody><tr><td>Open the <strong>Ask or search</strong> panel</td><td><kbd>⌘</kbd>+<kbd>K</kbd></td><td><kbd>Ctrl</kbd>+<kbd>K</kbd></td></tr><tr><td>Open the <strong>GitBook Assistant</strong> chat window</td><td><kbd>⌘</kbd>+<kbd>I</kbd></td><td><kbd>Ctrl</kbd>+<kbd>I</kbd></td></tr><tr><td>Close the <strong>Ask or search</strong> or <strong>GitBook Assistant</strong> panels</td><td><kbd>Esc</kbd></td><td><kbd>Esc</kbd></td></tr></tbody></table>
